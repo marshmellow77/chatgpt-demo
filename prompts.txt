@@ -1,0 +1,9 @@
+To generate the CloudFormation Template:
+
+Write a CloudFormation Template that creates a new security group with ports 22 and 8501 open and that launches a g4dn.xlarge EC2 instance with name “chatgpt-demo” and with AMI ID ami-09f85944838b438c5. It should activate the pre-built pytorch environment and install the libraries “transformers” and “streamlit” via pip.
+
+--------
+
+To generate the Streamlit app:
+
+Done! Now write a Streamlit application with an input text field and that uses the Hugging Face Pipeline API to create a sentiment classifier with model "distilbert-base-uncased-finetuned-sst-2-english” to evaluate the text. The title of the application should be “A sentiment analyser written by ChatGPT”.
