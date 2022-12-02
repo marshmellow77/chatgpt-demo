@@ -1,5 +1,5 @@
 # chatgpt-demo
-A repository to demonstrate how ChatGPT writes an entire AI application on AWS. This repository accompanies this [blog post](https://heiko-hotz.medium.com/i-used-chatgpt-to-create-an-entire-ai-application-on-aws-5b90e34c3d50) on Medium.
+A repository to demonstrate how [ChatGPT](https://chat.openai.com/) writes an entire AI application on AWS. This repository accompanies this [blog post](https://heiko-hotz.medium.com/i-used-chatgpt-to-create-an-entire-ai-application-on-aws-5b90e34c3d50) on Medium.
 
 In this repo you will find:
 - The prompts I used for generating the CloudFormation template and the Streamlit app: [prompts.txt](prompts.txt)
